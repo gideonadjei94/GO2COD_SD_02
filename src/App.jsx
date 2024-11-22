@@ -13,7 +13,7 @@ function App() {
           <div className="size-20  flex items-center justify-center rounded-lg shadow font-semibold">
             <input type="button" value="%" />
           </div>
-          <div className="size-20  flex items-center justify-center rounded-lg shadow bg-blue-100 font-bold">
+          <div className="size-20  flex items-center justify-center rounded-lg shadow bg-blue-100 font-semibold">
             <input type="button" value="/" />
           </div>
         </div>
@@ -29,7 +29,7 @@ function App() {
           <div className="size-20  flex items-center justify-center rounded-lg shadow font-semibold">
             <input type="button" value="9" />
           </div>
-          <div className="size-20  flex items-center justify-center rounded-lg shadow bg-blue-100 font-bold">
+          <div className="size-20  flex items-center justify-center rounded-lg shadow bg-blue-100 font-semibold">
             <input type="button" value="x" />
           </div>
         </div>
